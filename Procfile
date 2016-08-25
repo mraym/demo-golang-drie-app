@@ -1,1 +1,1 @@
-web: go run main.go
+web: demo-golang-drie-app
