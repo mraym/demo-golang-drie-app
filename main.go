@@ -24,7 +24,7 @@ func SayHelloDrieHandler(w http.ResponseWriter, r *http.Request) {
 
 	log.Println("GET /say-hello-drie")
 
-	message := Message{"Hello Zest Drie!"}
+	message := Message{"Hello drie!"}
 
 	js, err := json.Marshal(message)
 	if err != nil {
