@@ -1,1 +1,1 @@
-# Demo Golang application for drie 3
+# Demo Golang application for drie
